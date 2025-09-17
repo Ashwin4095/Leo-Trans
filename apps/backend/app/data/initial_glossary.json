@@ -1,0 +1,23 @@
+[
+  {
+    "source_term": "brand",
+    "thai_term": "แบรนด์",
+    "part_of_speech": "noun",
+    "context": "General marketing term for the company identity.",
+    "notes": "Use the English transliteration commonly used in Thai marketing copy."
+  },
+  {
+    "source_term": "launch",
+    "thai_term": "เปิดตัว",
+    "part_of_speech": "verb",
+    "context": "Launching a campaign or product to the market.",
+    "notes": "Prefer this over direct transliterations to keep tone natural."
+  },
+  {
+    "source_term": "limited time",
+    "thai_term": "ช่วงเวลาจำกัด",
+    "part_of_speech": "phrase",
+    "context": "Sales or promotional copy emphasizing urgency.",
+    "notes": "Pair with persuasive tone when used in CTA copy."
+  }
+]
